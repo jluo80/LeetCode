@@ -10,6 +10,7 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./algorithms/cpp/topKFrequentElements/topKFrequentElements.cpp)|Medium|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](./algorithms/cpp/reverseVowelsOfAString/reverseVowelsOfAString.cpp)|Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./algorithms/java/src/reverseString/reverseString.java)|Easy|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/) | [C++](./algorithms/cpp/houseRobber/houseRobberIII.cpp)|Medium|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](./algorithms/cpp/increasingTripletSubsequence/increasingTripletSubsequence.cpp)|Medium|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/) | [C++](./algorithms/cpp/patchingArray/PatchingArray.cpp)|Medium|
@@ -32,7 +33,7 @@ LeetCode
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [C++](./algorithms/cpp/bullsAndCows/bullsAndCows.cpp)|Easy|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  | [C++](./algorithms/cpp/serializeAndDeserializeBinaryTree/SerializeAndDeserializeBinaryTree.cpp)|Medium|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [C++](./algorithms/cpp/findMedianFromDataStream/FindMedianFromDataStream.cpp)|Hard|
-|292|[Nim Game](https://leetcode.com/problems/nim-game/)  | [C++](./algorithms/cpp/nimGame/nimGame.cpp)|Easy|
+|292|[Nim Game](https://leetcode.com/problems/nim-game/)  | [Java](./algorithms/java/src/nimGame/nimGame.java)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./algorithms/cpp/wordPattern/WordPattern.cpp)|Easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [C++](./algorithms/cpp/findTheDuplicateNumber/findTheDuplicateNumber.cpp)|Hard|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) &hearts; | [Java](./algorithms/java/src/inorderSuccessorInBST/inorderSuccessorInBST.java)|Medium|
@@ -73,7 +74,7 @@ LeetCode
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [C++](./algorithms/cpp/countCompleteTreeNodes/CountCompleteTreeNodes.cpp)|Medium|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)| [C++](./algorithms/cpp/maximalSquare/MaximalSquare.cpp)|Medium|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)| [C++](./algorithms/cpp/containsDuplicate/ContainsDuplicate.III.cpp)|Medium|
-|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [C++](./algorithms/cpp/containsDuplicate/ContainsDuplicate.II.cpp)|Easy|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [C++](./algorithms/java/src/containsDuplicateII/containsDuplicateII.java)|Easy|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)| [C++](./algorithms/cpp/theSkylineProblem/TheSkylineProblem.cpp)|Hard|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [C++](./algorithms/cpp/containsDuplicate/ContainsDuplicate.cpp)|Easy|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)| [C++](./algorithms/cpp/combinationSum/combinationSum.III.cpp)|Medium|
