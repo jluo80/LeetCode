@@ -6,8 +6,8 @@ LeetCode
 (Notes: "&hearts;" means you need to buy a book from Leetcode)
 
 
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
+| # | Title | Solution | Difficulty | Done|
+|---| ----- | -------- | ---------- | --- |
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./algorithms/cpp/topKFrequentElements/topKFrequentElements.cpp)|Medium|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](./algorithms/cpp/reverseVowelsOfAString/reverseVowelsOfAString.cpp)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./algorithms/java/src/reverseString/reverseString.java)|Easy|
