@@ -126,7 +126,7 @@ LeetCode
 |154|[Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| [C++](./algorithms/cpp/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.II.cpp)|Hard|
 |153|[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [C++](./algorithms/cpp/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.cpp), [Java](./algorithms/java/src/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.java)|Medium|
 |152|[Maximum Product Subarray](https://oj.leetcode.com/problems/maximum-product-subarray/)| [C++](./algorithms/cpp/maximumProductSubarray/maximumProductSubarray.cpp)|Medium|
-|151|[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)| [Java](./algorithms/Java/src/reverseWordsInAString/reverseWordsInAString.java)|Medium|1|
+|151|[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)|[Java](./algorithms/Java/src/reverseWordsInAString/reverseWordsInAString.java)|[Java](./algorithms/Java/src/reverseWordsInAString/reverseWordsInAString2.java)|Medium|1|
 |150|[Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/)| [C++](./algorithms/cpp/evaluateReversePolishNotation/evaluateReversePolishNotation.cpp)|Medium|
 |149|[Max Points on a Line](https://oj.leetcode.com/problems/max-points-on-a-line/)| [C++](./algorithms/cpp/maxPointsOnALine/maxPointsOnALine.cpp)|Hard|
 |148|[Sort List](https://oj.leetcode.com/problems/sort-list/)| [C++](./algorithms/cpp/sortList/sortList.cpp)|Medium|
