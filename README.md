@@ -114,7 +114,7 @@ LeetCode
 |166|[Fraction to Recurring Decimal](https://oj.leetcode.com/problems/fraction-to-recurring-decimal/) | [C++](./algorithms/cpp/fractionToRecurringDecimal/fractionToRecurringDecimal.cpp)|Medium|
 |165|[Compare Version Numbers](https://oj.leetcode.com/problems/compare-version-numbers/) | [C++](./algorithms/cpp/compareVersionNumbers/compareVersionNumbers.cpp)|Easy|
 |164|[Maximum Gap](https://oj.leetcode.com/problems/maximum-gap/) | [C++](./algorithms/cpp/maximumGap/maximumGap.cpp)|Hard|
-|163|[Missing Ranges](https://oj.leetcode.com/problems/missing-ranges/) &hearts; | [C++](./algorithms/cpp/missingRanges/missingRanges.cpp)|Medium|
+|163|[Missing Ranges](https://oj.leetcode.com/problems/missing-ranges/) &hearts; | [Java](./algorithms/java/src/missingRanges/missingRanges.java)|Medium|
 |162|[Find Peak Element](https://oj.leetcode.com/problems/find-peak-element/) | [C++](./algorithms/cpp/findPeakElement/findPeakElement.cpp), [Java](./algorithms/java/src/findPeakElement/findPeakElement.java)|Medium|
 |161|[One Edit Distance](https://oj.leetcode.com/problems/one-edit-distance/)&hearts; | [C++](./algorithms/cpp/oneEditDistance/oneEditDistance.cpp)|Medium|
 |160|[Intersection of Two Linked Lists](https://oj.leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](./algorithms/cpp/intersectionOfTwoLinkedLists/intersectionOfTwoLinkedLists.cpp)|Easy|
