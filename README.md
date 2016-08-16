@@ -1,6 +1,6 @@
 LeetCode
 ========
-
+一只弱渣的刷题史，但是，我爱coding！
 ###LeetCode Algorithm
 
 (Notes: "&hearts;" means you need to buy a book from Leetcode)
