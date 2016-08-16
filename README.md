@@ -275,7 +275,7 @@ LeetCode
 |5|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| [C++](./algorithms/cpp/longestPalindromicSubstring/longestPalindromicSubstring.cpp)|Medium|
 |4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| [C++](./algorithms/cpp/medianOfTwoSortedArrays/medianOfTwoSortedArrays.cpp)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [Java](./algorithms/java/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.java)|Medium|
-|2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [C++](./algorithms/cpp/addTwoNumbers/addTwoNumbers.cpp)|Medium|
+|2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [Java](./algorithms/java/addTwoNumbers/addTwoNumbers.java)|Medium|
 |1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [Java](./algorithms/java/twoSum/twoSum.java)|Medium|
 
 
