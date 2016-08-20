@@ -264,7 +264,7 @@ LeetCode
 |16|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [C++](./algorithms/cpp/3SumClosest/3SumClosest.cpp)|Medium|
 |15|[3Sum](https://oj.leetcode.com/problems/3sum/)| [C++](./algorithms/cpp/3Sum/3Sum.cpp)|Medium|
 |14|[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| [C++](./algorithms/cpp/longestCommonPrefix/longestCommonPrefix.cpp)|Easy|
-|13|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| [Java](./algorithms/Java/romanToInteger/romanToInteger.java)|Easy|
+|13|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| [Java](./algorithms/java/romanToInteger/romanToInteger.java)|Easy|
 |12|[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| [C++](./algorithms/cpp/integerToRoman/integerToRoman.cpp)|Medium|
 |11|[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| [C++](./algorithms/cpp/containerWithMostWater/containerWithMostWater.cpp)|Medium|
 |10|[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| [C++](./algorithms/cpp/regularExpressionMatching/regularExpressionMatching.cpp)|Hard|
