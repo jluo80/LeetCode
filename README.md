@@ -8,6 +8,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Done|
 |---| ----- | -------- | ---------- | --- |
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./algorithms/java/sumOfTwoIntegers/sumOfTwoIntegers.java)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./algorithms/cpp/topKFrequentElements/topKFrequentElements.cpp)|Medium|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](./algorithms/cpp/reverseVowelsOfAString/reverseVowelsOfAString.cpp)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./algorithms/java/reverseString/reverseString.java)|Easy|
